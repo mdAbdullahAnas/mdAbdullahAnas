@@ -17,7 +17,7 @@
 - 🎓 **Software Engineer** with a focus on **Mobile Application Development**  
 - 📱 Skilled in **Android (Kotlin, Java)** and **Cross-Platform Apps (Flutter)**  
 - 🤖 Exploring **Artificial Intelligence & Machine Learning**  
-- 🌍 Passionate about **building impactful applications**  
+- 🌍 Passionate about **building and publish impactful applications**  
 - 🚀 Always curious & improving through **real-world projects**  
 
 ---
