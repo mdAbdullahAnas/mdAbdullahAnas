@@ -23,7 +23,7 @@ Software Engineer • Mobile Application Developer • Full Stack Developer • 
 
 💡 Passionate about designing and developing impactful software solutions that solve real-world problems.
 
-📱 Specialized in **Android Application Development** using Kotlin and Java.
+📱 Specialized in **Android Application Development** using Kotlin ,Dart and Java.
 
 🌐 Currently expanding expertise in **Full Stack Development**, **Artificial Intelligence**, and **Cloud Technologies**.
 
