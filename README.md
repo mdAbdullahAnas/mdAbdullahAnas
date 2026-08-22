@@ -1,247 +1,208 @@
-<!-- Hero Section -->
-<h1 align="center">Hi 👋, I'm Abdullah Anas</h1>
+<div align="center">
 
-<h3 align="center">
-Software Engineer • Mobile Application Developer • Full Stack Developer • AI Enthusiast
-</h3>
+# 👋 Hi, I'm Abdullah Anas
 
-<p align="center">
+### Software Engineer · Mobile Application Specialist · Full-Stack Developer
+
+<p>
   <a href="https://github.com/mdAbdullahAnas">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Mobile+Application+Developer;Full+Stack+Developer;AI+Enthusiast;Building+Solutions+That+Matter" alt="Typing SVG" />
+    <img src="https://img.shields.io/badge/GitHub-mdAbdullahAnas-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
-</p>
-
----
-
-# 🚀 About Me
-
-🎓 Software Engineering Student at **American International University-Bangladesh (AIUB)**
-
-💡 Passionate about designing and developing impactful software solutions that solve real-world problems.
-
-📱 Specialized in **Android Application Development** using Kotlin ,Dart and Java.
-
-🌐 Currently expanding expertise in **Full Stack Development**, **Artificial Intelligence**, and **Cloud Technologies**.
-
-🚀 Strong interest in:
-- Mobile Application Development
-- Full Stack Web Development
-- Artificial Intelligence & Machine Learning
-- Software Architecture & System Design
-- Problem Solving & Clean Code Practices
-
----
-
-# 💼 Professional Summary
-
-A motivated Software Engineering student with hands-on experience in developing mobile and web applications. Skilled in building scalable systems, designing intuitive user interfaces, and implementing secure backend architectures.
-
-Experienced in:
-- Android Development
-- Flutter Development
-- Full Stack Development
-- REST API Development
-- Database Design
-- Software Engineering Principles
-
-I enjoy transforming ideas into practical software solutions and continuously learning modern technologies.
-
----
-
-# 🛠️ Tech Stack
-
-### Languages
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=kotlin,java,dart,python,javascript,typescript,html,css" />
-</p>
-
-### Mobile Development
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=androidstudio,flutter,firebase" />
-</p>
-
-### Backend Development
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" />
-</p>
-
-### Frontend Development
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-</p>
-
-### Databases
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=postgres,mysql" />
-</p>
-
-### Tools & Platforms
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## 🎓 School Management System
-
-A full-stack academic management platform built using NestJS, Next.js, PostgreSQL, and TypeScript.
-
-### Key Features
-
-- JWT Authentication
-- Role-Based Access Control
-- Student Management
-- Teacher Management
-- Subject Management
-- Attendance Tracking
-- Assignment Management
-- Result Publishing
-- Notice System
-
-**Tech Stack:** NestJS • Next.js • PostgreSQL • TypeScript
-
----
-
-## 💰 SplitMate – Expense Splitter App
-
-A modern Android application that simplifies group expense tracking and settlement.
-
-### Features
-
-- Expense Management
-- Balance Calculation
-- QR Sharing
-- Settlement Tracking
-- Clean User Experience
-
-**Tech Stack:** Kotlin • Android Studio
-
-📱 Play Store:
-https://play.google.com/store/apps/details?id=com.misty.splitmate
-
----
-
-## 🧠 Kiddo – Educational Learning Platform
-
-A Flutter-based educational gaming application designed to improve children's cognitive and problem-solving abilities.
-
-### Games Included
-
-- Math Challenge
-- Geometry Challenge
-- Sequence Challenge
-- Puzzle Challenge
-- Matching Game
-- Guessing Game
-
-### Features
-
-- Level System
-- Ranking System
-- Achievement System
-- Interactive Learning
-
-**Tech Stack:** Flutter • Dart
-
----
-
-## 🎮 Tic-Tac-Toe Online
-
-Multiplayer Tic-Tac-Toe game with real-time gameplay and AI difficulty modes.
-
-### Features
-
-- Online Multiplayer
-- AI Opponent
-- Difficulty Levels
-- Real-Time Gameplay
-
-**Tech Stack:** Kotlin • Firebase
-
----
-
-# 🏆 Achievements
-
-🏅 Google Play Store Application Publisher
-
-🏅 Scholarship Recipient
-
-🏅 International Conference Participant (ICEI 2026)
-
-🏅 Multiple Academic Software Development Projects
-
-🏅 Active Contributor to Software Development Communities
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mdAbdullahAnas&show_icons=true&theme=tokyonight&hide_border=true" />
-  
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=mdAbdullahAnas&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 📈 Most Used Technologies
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdAbdullahAnas&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🎯 Current Focus
-
-🔹 Advanced Android Development
-
-🔹 Full Stack Development with NestJS & Next.js
-
-🔹 Artificial Intelligence & Machine Learning
-
-🔹 Software Architecture & System Design
-
-🔹 Open Source Contributions
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
   <a href="https://www.linkedin.com/in/md-abdullah-anas-5a4914253/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Abdullah%20Anas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-
   <a href="mailto:mdabdullahanas100200305@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+</p>
 
-  <a href="https://github.com/mdAbdullahAnas">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=900&color=00C2FF&center=true&vCenter=true&width=800&lines=Software+Engineer;Mobile+Application+Specialist;Flutter+%7C+Kotlin+%7C+Android;Full-Stack+Developer;NestJS+%7C+Next.js+%7C+PostgreSQL;Clean+Architecture+%7C+REST+APIs+%7C+RBAC;AI-Assisted+Software+Engineering"
+  alt="Typing SVG"
+/>
+
+<br/>
+
+<img
+  src="https://komarev.com/ghpvc/?username=mdAbdullahAnas&label=Profile%20Views&color=0e75b6&style=for-the-badge"
+  alt="Profile Views"
+/>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **Software Engineer and Mobile Application Specialist** focused on building reliable, scalable, and user-friendly applications.
+
+My primary strength is **mobile application development**, especially **Flutter and native Android/Kotlin**, while also working across backend and web technologies to build complete products.
+
+- 📱 Mobile-first engineer with Flutter & Kotlin experience
+- 🏗️ Experienced with **Feature-First Clean Architecture**
+- 🔌 Strong experience integrating **RESTful APIs**
+- 🔐 Authentication, authorization & **RBAC**
+- 🧠 Interested in AI-assisted software engineering
+- 🐳 Comfortable with Docker, Git and modern development tooling
+- 🌐 Building full-stack systems with **NestJS, Next.js & PostgreSQL**
+- 🚀 Focused on production-quality, maintainable software
+
+---
+
+## 💼 Professional Experience
+
+### Mobile Application Developer Intern — NN-Tech
+
+**July 2026 – Present · Hybrid**
+
+Working on a production HRM platform with a modular architecture and multiple business-critical workflows.
+
+**Key Contributions**
+
+- 🏗️ Designed a scalable **Feature-First Clean Architecture** supporting **15+ modular features**
+- 🔌 Integrated **150+ RESTful API endpoints** using Dio and structured DTO-based communication
+- 📍 Integrated **OpenStreetMap Nominatim + Flutter Map** for office location selection and geofenced attendance
+- ⚡ Implemented predictable application state management using **Riverpod Notifier/Provider**
+- 🔐 Implemented **Role-Based Access Control (RBAC)** for Admin, Manager and Employee workflows
+- 🔒 Used **Flutter Secure Storage** for secure authentication and session management
+- 🤖 Leveraged **Cursor and Codex** for development, debugging and code refinement while maintaining engineering standards
+
+---
+
+## 🧰 Tech Stack
+
+### 📱 Mobile Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,firebase" alt="Mobile Technologies"/>
+</p>
+
+### ⚙️ Backend & APIs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,docker" alt="Backend Technologies"/>
+</p>
+
+### 🌐 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind" alt="Frontend Technologies"/>
+</p>
+
+### 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin,dart,java,typescript,javascript,python,cpp" alt="Programming Languages"/>
+</p>
+
+### 🛠️ Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux" alt="Tools and Platforms"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 📱 Kiddo — Educational Learning App
+
+A cross-platform educational application featuring interactive games and gamified learning experiences.
+
+**Highlights**
+
+- 🎮 6 interactive games
+- 🧩 90 levels per game
+- 📊 Progress tracking
+- 🏆 Gamification and level progression
+- 💾 Local data persistence
+- ✨ Interactive animations
+
+**Stack:** Flutter · Dart · Hive · Shared Preferences · Lottie
+
+---
+
+### 💰 SplitMate — Expense Splitter
+
+An Android application for managing shared expenses and simplifying debt settlement.
+
+**Highlights**
+
+- Expense CRUD
+- Automated balance calculation
+- Debt settlement
+- QR code sharing
+- Local data persistence
+- Material Design UI
+
+**Stack:** Kotlin · Android SDK · SQLite · Shared Preferences
+
+<p>
+  <a href="https://play.google.com/store/apps/details?id=com.misty.splitmate">
+    <img
+      src="https://img.shields.io/badge/Google%20Play-View%20App-414141?style=for-the-badge&logo=google-play&logoColor=white"
+      alt="Google Play"
+    />
   </a>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mdAbdullahAnas&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+### 🧠 Matching — Memory Matching Game
+
+A published Android game focused on interactive card matching and progressive gameplay.
+
+**Highlights**
+
+- 🃏 Flip-card animations
+- 🎯 Multiple difficulty levels
+- 📊 Performance scoring
+- 🎮 Custom game modes
+- 📈 Level progression
+- 🧠 Robust game-state management
+
+**Stack:** Kotlin · Android SDK · SQLite · Shared Preferences · Material Design
 
 ---
 
-<h3 align="center">
-⭐ Building Technology That Makes Life Better ⭐
-</h3>
+### 🎓 School Management System
+
+A role-based full-stack academic management platform designed for Admin, Teacher and Student workflows.
+
+**Highlights**
+
+- 🔐 JWT authentication
+- 👥 Role-based authorization
+- 🔌 RESTful APIs
+- 🗄️ PostgreSQL integration
+- 👨‍🎓 Student management
+- 👨‍🏫 Teacher management
+- 📚 Academic workflow management
+
+**Stack:** Next.js · NestJS · PostgreSQL · TypeScript · JWT
+
+---
+
+## 🧠 Engineering Focus
+
+```text
+📱 Mobile Engineering
+├── Flutter
+├── Kotlin / Android
+├── Clean Architecture
+├── State Management
+└── Secure Local Storage
+
+⚙️ Backend Engineering
+├── NestJS
+├── REST APIs
+├── PostgreSQL
+├── Authentication
+└── RBAC
+
+🏗️ Engineering Practices
+├── Git & GitHub
+├── Docker
+├── API-first Development
+├── Clean Code
+└── AI-Assisted Development
