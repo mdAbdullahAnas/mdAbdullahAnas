@@ -102,4 +102,4 @@ Software Engineer focused on building reliable, scalable and user-friendly appli
 
 - 🧬 **ALIS D-Net** — IEEE TENCON 2026
 - 📡 **Arduino-Based RADAR System** — ICEI 2026
-- 🎓 **B.Sc. in CSE, AIUB** — CGPA 3.46 (2022 – 2026)
+- 🎓 **B.Sc. in CSE, AIUB**  (2022 – 2026)
