@@ -8,23 +8,23 @@
   <a href="https://github.com/mdAbdullahAnas">
     <img src="https://img.shields.io/badge/GitHub-mdAbdullahAnas-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/md-abdullah-anas-5a4914253/">
+  <a href="https://www.linkedin.com/in/mdabdullahanas">
     <img src="https://img.shields.io/badge/LinkedIn-Abdullah%20Anas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:mdabdullahanas100200305@gmail.com">
+  <a href="mailto:anas.official.tech@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=900&color=00C2FF&center=true&vCenter=true&width=800&lines=Software+Engineer;Mobile+Application+Specialist;Flutter+%7C+Kotlin+%7C+Android;Full-Stack+Developer;NestJS+%7C+Next.js+%7C+PostgreSQL;Clean+Architecture+%7C+REST+APIs+%7C+RBAC;AI-Assisted+Software+Engineering"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=900&color=00C2FF&center=true&vCenter=true&width=800&lines=Software+Engineer;Mobile+Application+Specialist;Kotlin+Multiplatform+%7C+Flutter+%7C+Android;Full-Stack+Developer;NestJS+%7C+Next.js+%7C+PostgreSQL;Clean+Architecture+%7C+REST+APIs+%7C+RBAC;AI-Assisted+Software+Engineering"
   alt="Typing SVG"
 />
 
 <br/>
 
 <img
-  src="https://komarev.com/ghpvc/?username=mdAbdullahAnas&label=Profile%20Views&color=0e75b6&style=for-the-badge"
+  src="https://api.visitorbadge.io/api/visitors?path=mdAbdullahAnas&label=Profile%20Views&countColor=%230e75b6&style=for-the-badge"
   alt="Profile Views"
 />
 
@@ -34,38 +34,24 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Software Engineer and Mobile Application Specialist** focused on building reliable, scalable, and user-friendly applications.
+Software Engineer focused on building reliable, scalable and user-friendly applications. Strongest in **mobile development** (Kotlin, KMP, Flutter), with full-stack experience in **NestJS, Next.js & PostgreSQL**.
 
-My primary strength is **mobile application development**, especially **Flutter and native Android/Kotlin**, while also working across backend and web technologies to build complete products.
-
-- 📱 Mobile-first engineer with Flutter & Kotlin experience
-- 🏗️ Experienced with **Feature-First Clean Architecture**
-- 🔌 Strong experience integrating **RESTful APIs**
-- 🔐 Authentication, authorization & **RBAC**
-- 🧠 Interested in AI-assisted software engineering
-- 🐳 Comfortable with Docker, Git and modern development tooling
-- 🌐 Building full-stack systems with **NestJS, Next.js & PostgreSQL**
-- 🚀 Focused on production-quality, maintainable software
+- 🏗️ Feature-First Clean Architecture
+- 🔌 REST APIs, authentication & **RBAC**
+- 🧠 AI-assisted software engineering
 
 ---
 
-## 💼 Professional Experience
+## 💼 Experience
 
-### Mobile Application Developer Intern — NN-Tech
+**Mobile Application Developer — Bdjobs.com** · *Oct 2026 – Present*
+- 🔄 Migrated the Sales Dashboard app from native Kotlin to **Kotlin Multiplatform** (Android + iOS)
+- 🐞 Fixed bugs and UI issues in the main Bdjobs mobile app
 
-**July 2026 – Present · Hybrid**
-
-Working on a production HRM platform with a modular architecture and multiple business-critical workflows.
-
-**Key Contributions**
-
-- 🏗️ Designed a scalable **Feature-First Clean Architecture** supporting **15+ modular features**
-- 🔌 Integrated **150+ RESTful API endpoints** using Dio and structured DTO-based communication
-- 📍 Integrated **OpenStreetMap Nominatim + Flutter Map** for office location selection and geofenced attendance
-- ⚡ Implemented predictable application state management using **Riverpod Notifier/Provider**
-- 🔐 Implemented **Role-Based Access Control (RBAC)** for Admin, Manager and Employee workflows
-- 🔒 Used **Flutter Secure Storage** for secure authentication and session management
-- 🤖 Leveraged **Cursor and Codex** for development, debugging and code refinement while maintaining engineering standards
+**Mobile Apps Developer Intern — NNSEL** · *Jul 2026 – Sep 2026*
+- 🏗️ Built a subscription-based HRM app with **15+ modules** (Payroll, Attendance, Leave)
+- 🔌 Integrated **200+ REST API endpoints** using Dio and Riverpod
+- 🔐 Implemented RBAC, secure authentication and location-based attendance (OpenStreetMap)
 
 ---
 
@@ -74,13 +60,13 @@ Working on a production HRM platform with a modular architecture and multiple bu
 ### 📱 Mobile Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,firebase" alt="Mobile Technologies"/>
+  <img src="https://skillicons.dev/icons?i=kotlin,flutter,dart,androidstudio,firebase" alt="Mobile Technologies"/>
 </p>
 
 ### ⚙️ Backend & APIs
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,docker" alt="Backend Technologies"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,sqlite,docker" alt="Backend Technologies"/>
 </p>
 
 ### 🌐 Frontend Development
@@ -98,111 +84,22 @@ Working on a production HRM platform with a modular architecture and multiple bu
 ### 🛠️ Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux" alt="Tools and Platforms"/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux,windows,arduino,raspberrypi" alt="Tools and Platforms"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### 📱 Kiddo — Educational Learning App
-
-A cross-platform educational application featuring interactive games and gamified learning experiences.
-
-**Highlights**
-
-- 🎮 6 interactive games
-- 🧩 90 levels per game
-- 📊 Progress tracking
-- 🏆 Gamification and level progression
-- 💾 Local data persistence
-- ✨ Interactive animations
-
-**Stack:** Flutter · Dart · Hive · Shared Preferences · Lottie
+- 📱 **Kiddo** — Flutter learning app with 6 games × 90 levels, progress tracking and gamification
+- 💰 **[SplitMate](https://play.google.com/store/apps/details?id=com.misty.splitmate)** — Published Android expense splitter (Kotlin, SQLite, QR sharing)
+- 🧠 **[Matching](https://play.google.com/store/apps/details?id=com.misty.matching)** — Published Android memory card game (Kotlin, SQLite)
+- 🎓 **[School Management System](https://github.com/mdAbdullahAnas/school-management-system)** — Role-based full-stack platform (Next.js, NestJS, PostgreSQL, JWT)
 
 ---
 
-### 💰 SplitMate — Expense Splitter
+## 📄 Publications & Education
 
-An Android application for managing shared expenses and simplifying debt settlement.
-
-**Highlights**
-
-- Expense CRUD
-- Automated balance calculation
-- Debt settlement
-- QR code sharing
-- Local data persistence
-- Material Design UI
-
-**Stack:** Kotlin · Android SDK · SQLite · Shared Preferences
-
-<p>
-  <a href="https://play.google.com/store/apps/details?id=com.misty.splitmate">
-    <img
-      src="https://img.shields.io/badge/Google%20Play-View%20App-414141?style=for-the-badge&logo=google-play&logoColor=white"
-      alt="Google Play"
-    />
-  </a>
-</p>
-
----
-
-### 🧠 Matching — Memory Matching Game
-
-A published Android game focused on interactive card matching and progressive gameplay.
-
-**Highlights**
-
-- 🃏 Flip-card animations
-- 🎯 Multiple difficulty levels
-- 📊 Performance scoring
-- 🎮 Custom game modes
-- 📈 Level progression
-- 🧠 Robust game-state management
-
-**Stack:** Kotlin · Android SDK · SQLite · Shared Preferences · Material Design
-
----
-
-### 🎓 School Management System
-
-A role-based full-stack academic management platform designed for Admin, Teacher and Student workflows.
-
-**Highlights**
-
-- 🔐 JWT authentication
-- 👥 Role-based authorization
-- 🔌 RESTful APIs
-- 🗄️ PostgreSQL integration
-- 👨‍🎓 Student management
-- 👨‍🏫 Teacher management
-- 📚 Academic workflow management
-
-**Stack:** Next.js · NestJS · PostgreSQL · TypeScript · JWT
-
----
-
-## 🧠 Engineering Focus
-
-```text
-📱 Mobile Engineering
-├── Flutter
-├── Kotlin / Android
-├── Clean Architecture
-├── State Management
-└── Secure Local Storage
-
-⚙️ Backend Engineering
-├── NestJS
-├── REST APIs
-├── PostgreSQL
-├── Authentication
-└── RBAC
-
-🏗️ Engineering Practices
-├── Git & GitHub
-├── Docker
-├── API-first Development
-├── Clean Code
-└── AI-Assisted Development
+- 🧬 **ALIS D-Net** — IEEE TENCON 2026
+- 📡 **Arduino-Based RADAR System** — ICEI 2026
+- 🎓 **B.Sc. in CSE, AIUB** — CGPA 3.46 (2022 – 2026)
